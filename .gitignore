@@ -1,6 +1,2 @@
 # Ignore .exe files, which are stored in subdirectory bin.
 bin/*
-
-# Ignore my terminal commands file, stored in the root directory.
-# Remove or ignore this if you have no need for the "z-commands" file.
-z-commands
