@@ -27,18 +27,18 @@ This option can only be used in the action prompt. It brings up another input pr
 which asks for the encryption algorithm you would like to use. Below are the accepted
 values that this option accepts.
 
-* caesar
+* caesar   
 Selects the Caesar cipher option. It will bring up two more prompts, asking for input
 text and then for a key.
 
-* beaufort
+* beaufort   
 Selects the Beaufort cipher option. It will bring up two more prompts, asking for input
 text and then for a key.
 
-* a1z26
+* a1z26   
 Selects the A1Z26 cipher option. It will bring up one more prompt, asking for input text.
 
-* ascii-decimal
+* ascii-decimal   
 STILL IN DEVELOPMENT. Selects the ascii-decimal option. It will bring up one 
 more prompt, asking for input text.
 
@@ -46,18 +46,18 @@ more prompt, asking for input text.
 This option can only be used in the action prompt. It brings up another input prompt
 which asks for the encryption algorithm you would like to use.
 
-* caesar
+* caesar   
 Selects the Caesar cipher option. It will bring up two more prompts, asking for input
 text and then for a key.
 
-* beaufort
+* beaufort   
 Selects the Beaufort cipher option. It will bring up two more prompts, asking for input
 text and then for a key.
 
-* a1z26 
+* a1z26    
 STILL IN DEVELOPMENT. Selects the A1Z26 cipher option. It will bring up one more 
 prompt, asking for input text.
 
-* ascii-decimal
+* ascii-decimal   
 STILL IN DEVELOPMENT. Selects the ascii-decimal option. It will bring up one 
 more prompt, asking for input text.
