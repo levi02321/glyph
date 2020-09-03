@@ -16,7 +16,7 @@ int main() {
         std::cin >> action_choice;
         if (to_uppercase_convert(action_choice) == "HELP") {
             std::cout << "Copy and paste the below link to open our documentation online.\n";
-            std::cout << "%PLACEHOLDER%\n\n";
+            std::cout << "https://github.com/levi02321/glyph/blob/master/README.md\n\n";
         } else if (to_uppercase_convert(action_choice) == "VERSION") {
             std::cout << "You are running glyph version " << version_number << "\n\n";
         } else if (to_uppercase_convert(action_choice) == "ENCRYPT") {
